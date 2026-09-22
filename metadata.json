@@ -1,0 +1,6 @@
+{
+  "name": "Armenia EduOS - Teacher Workspace & MoESCS Oversight",
+  "description": "National educational operating system for Armenian teachers and MoESCS government oversight. Includes 10-point electronic grading, state standard lesson planning, parent communication, AI assistance (Gemini, ChatGPT/OpenAI, Firebird), and ministry-level inspection analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
